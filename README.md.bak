@@ -5,4 +5,4 @@ Unreal Engine 5 Multiplayer Plugin for easy use in games
 
 2. Add Online Subsystem Steam to your project
 
-3. Copy text from files into to  bottom of the same files in your project (files stored in /Config folder in your project folder)
+3. Copy text from files into /Config/... to the same files in your project (files stored in /Config folder in your project folder)
